@@ -38,6 +38,7 @@
 [Tmux](Tmux.md)    
 [Tools](Tools.md)  
 [Vim Editor](Vim_Editor.md)    
+[VimWiki](VimWiki.md)
 [Windows](Windows.md)    
 [ZSH](ZSH.md)    
 
