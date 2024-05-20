@@ -1,4 +1,4 @@
 
 ## UFW 
 
-[Index](index)
+[Index](index.md)
