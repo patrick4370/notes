@@ -1,11 +1,9 @@
-
 # Arch Linux
 
 [Arch Installion Process](Arch_Installion_Process.md)  
 [Bluetooth](Bluetooth.md)  
 [Chroot](Chroot.md)  
 [Disk and ISO Mounting](Disk_and_ISO_Mounting.md)  
-[File Systems](File_Systems.md)   
 [Firmware](Firmware.md)  
 [Hibernation](Hibernation.md)  
 [Lightdm](Lightdm.md)  

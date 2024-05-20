@@ -1,4 +1,3 @@
-
 # Shell Programming
 
 [Snippets](Snippets.md): Small pieces of shell code

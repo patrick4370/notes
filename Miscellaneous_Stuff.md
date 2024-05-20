@@ -1,3 +1,3 @@
-## Miscellaneous Stuff
+# Miscellaneous Stuff
 
 [index](index.md)

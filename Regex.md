@@ -1,7 +1,6 @@
+# Regex
 
-## Regex
-
-*Character Classes*
+## *Character Classes*
 
 
 | Metacharacter | Description                  |
@@ -43,7 +42,7 @@
 
 ## Examples
 
-*Email*
+### *Email*
 
 An email address is composed of the following:
 

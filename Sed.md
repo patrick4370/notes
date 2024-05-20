@@ -1,6 +1,4 @@
-
 # Sed Basics
-
 
 ## Remove until end of line
 

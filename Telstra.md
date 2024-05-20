@@ -1,4 +1,6 @@
-# POP settings 
+# Telstra
+
+## POP settings 
 
 *Account type: POP3* 
 
@@ -31,7 +33,7 @@ Password: Your Telstra email account password – REMEMBER it’s case sensitive
 ```
 Make sure ‘Outgoing server requires authentication' is ticked. 
 ```
-# IMAP settings
+## IMAP settings
 
 *Account type: IMAP* 
 

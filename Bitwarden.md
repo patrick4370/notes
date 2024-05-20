@@ -1,4 +1,5 @@
 <base target="_blank">
+# ZSH
 
 ## Add zsh autocompletion to Bitwarden CLI
 

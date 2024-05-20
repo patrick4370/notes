@@ -1,5 +1,4 @@
-
-## WiFi Setup
+# WiFi Setup
 
 [[https://wiki.archlinux.org/title/Wpa_supplicant|wpa_supplicant]]
 

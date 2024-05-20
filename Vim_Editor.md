@@ -200,8 +200,6 @@ Vim's autocompletion can be triggered with the `<C-p>` and `<C-n>` chords, which
 
 Table: Types of autocompletion
 
-
-
 [Index](index.md)
  
  

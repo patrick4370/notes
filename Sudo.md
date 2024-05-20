@@ -1,3 +1,4 @@
+# Sudo
 
 ## Change Sudo Password Timeout
 
@@ -12,8 +13,6 @@ And change it like below:
 `Defaults env_reset, timestamp_timeout=30`
 
 or add the line if it doesn't exist.
-
-
 
 ## Default Editor for VISUDO
 

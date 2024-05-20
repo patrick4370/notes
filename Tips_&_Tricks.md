@@ -1,4 +1,3 @@
-
 # Tips and Tricks
 
 ## How to set 4 space tab in bash

@@ -1,4 +1,3 @@
-
 # Bash Shell 
 
 ![Bash Logo](https://pplware.sapo.pt/wp-content/uploads/2019/01/bash-logo-345x194.jpg)

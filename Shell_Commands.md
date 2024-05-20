@@ -1,4 +1,3 @@
-
-## Shell Commands
+# Shell Commands
 
 [Index](index.md)

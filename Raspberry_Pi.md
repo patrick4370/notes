@@ -1,4 +1,6 @@
-# Installing The OS 
+# Raspberry Pi
+
+## Installing The OS 
 
 Use the [Raspberry Pi Imager](https://www.raspberrypi.com/software/|Raspberry Pi Imager) to install to SD Card.
 
@@ -15,7 +17,7 @@ Insert the SD Card into the Pi. Power and boot. SSH into the board and do the fo
   `$6$Crz3ILyzn.Cqw8WK$mpVW7yVI0KAOO4QfEvN/2RW1oCkbeKSpUE5zvCfonK8YZhUdC7tLrhS2BrvzxMMjDvj5GXI/gshZF/Q1vyhXv0`
 * In the `userconf.txt` file, add the username and *openssl* output as `username:$6$Crz3ILyzn.Cqw8WK$mpVW7yVI0KAOO4QfEvN/2RW1oCkbeKSpUE5zvCfonK8YZhUdC7tLrhS2BrvzxMMjDvj5GXI/gshZF/Q1vyhXv0`
  
- ## Static IP Setup
+## Static IP Setup
 
 In the `/etc/dhcpcd.conf` file add the following -
 
@@ -55,5 +57,4 @@ sudo nmcli con mod <connection name> ipv4.dhcp-send-hostname yes
 sudo nmcli con mod <connection name> ipv6.dhcp-send-hostname yes
 sudo nmcli con reload
 ```
-
 [Index](index.md)

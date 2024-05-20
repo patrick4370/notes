@@ -1,5 +1,4 @@
-
-## Hibernation 
+# Hibernation 
 
 To set up hibernation we need to create a swap file.
 

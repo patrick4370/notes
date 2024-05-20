@@ -1,4 +1,3 @@
-
 # Firmware Packages 
 
 core/linux-firmware  

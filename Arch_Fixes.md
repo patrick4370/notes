@@ -1,3 +1,4 @@
+# Arch Fixes
 
 ## Fix “Warning: local is newer than community” Error In Arch Linux
 
