@@ -7,6 +7,8 @@
  joy in constant exploration and learning. These scribbles evolve organically,
  growing with my journey. If they happen to benefit you, that's wonderful. If
  not, no worries — onward we tinker and learn.
+ 
+ To read this properly, go to https://github.com/patrick4370/notes/blob/main/index.md
 
 [Arch Fixes](Arch_Fixes.md)    
 [Arch Linux](Arch_Linux.md)    
