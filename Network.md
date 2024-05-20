@@ -70,7 +70,7 @@ Create a *wpa_supplicant* file for the particular interface. E.g., my wifi card 
    8
    9 network={
   10     ssid="TelstraF04697"
-  11     psk=13458be4ffe14f5332f245bbc9b1169f07b7e9415ca36d5bf4e958d92ad62e3e
+  11     psk=Add your PSK here
   12 }
 ```
 [Index](index.md)
