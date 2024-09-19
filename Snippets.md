@@ -1,3 +1,7 @@
+---
+title: Snippets
+lang: en 
+---
 
 ## Find File System Type On a Drive
 

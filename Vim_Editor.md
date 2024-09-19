@@ -1,6 +1,13 @@
-# Vim Editor 
+---
+title: Vim Editor
+lang: en
+---
 
-![Vim Logo](http://www.sromero.org/wiki/_media/linux/aplicaciones/vimman/vim-editor_logo.png)
+<img src="./images/vimlogo.png" alt="image" width="200" height="auto">
+
+- [Plugins](Plugins.md)
+- [Fixes](Fixes.md)
+
 
 _Toggle Upper Case/Lower Case_
 
@@ -199,6 +206,10 @@ Vim's autocompletion can be triggered with the `<C-p>` and `<C-n>` chords, which
 | `<C-x><C-o>` | Omni completion         |
 
 Table: Types of autocompletion
+
+## Key Names
+
+<Left> <Right> <Up> <Down> for the arrow keys
 
 [Index](index.md)
  

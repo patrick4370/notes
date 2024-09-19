@@ -1,4 +1,7 @@
-# Mounting ISO images
+---
+title: Mounting ISO images
+lang: en
+---
 
 Use this technique to mount UDF based images such as Windows ISO's.
 

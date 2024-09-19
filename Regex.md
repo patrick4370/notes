@@ -1,4 +1,7 @@
-# Regex
+---
+title: Regex
+lang: en
+---
 
 ## *Character Classes*
 

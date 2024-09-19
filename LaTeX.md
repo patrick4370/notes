@@ -1,4 +1,7 @@
-# LaTeX
+---
+title: LaTeX
+lang: en
+---
 
 ## General Commands
 

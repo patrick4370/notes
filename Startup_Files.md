@@ -1,5 +1,9 @@
+---
+title: Startup Files
+lang: en
+---
 
 # Startup Files
 
-[Bash Shell](Bash Shell)
+[Bash Shell](Bash_Shell.md)
 

@@ -1,4 +1,7 @@
-# Smart TV's
+---
+title: Smart TV's
+lang: en
+---
 
 ## USB Drives
   

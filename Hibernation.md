@@ -1,4 +1,7 @@
-# Hibernation 
+---
+title: Hibernation 
+lang: en
+---
 
 To set up hibernation we need to create a swap file.
 

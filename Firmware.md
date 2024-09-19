@@ -1,4 +1,7 @@
-# Firmware Packages 
+---
+title: Firmware Packages
+lang: en
+---
 
 core/linux-firmware  
 core/linux-firmware-bnx2x  

@@ -1,4 +1,7 @@
-# Dotfiles
+---
+title: Dotfiles
+lang: en
+---
 
 ## [Chezmoi](Chezmoi.md)
 

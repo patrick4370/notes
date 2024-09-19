@@ -1,3 +1,8 @@
+---
+title: Chezmoi Dotfiles Manager
+lang: en
+---
+
 # Chezmoi Dotfiles Manager 
 
 ## Start using chezmoi on your current machine

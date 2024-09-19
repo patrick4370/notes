@@ -1,4 +1,7 @@
-# Fonts
+---
+title: Fonts
+lang: en
+---
 
 ## Installing Fonts
 

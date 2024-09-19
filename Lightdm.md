@@ -1,4 +1,7 @@
-# Lightdm
+---
+title: Lightdm
+lang: en
+---
 
 ## Changing your avatar
 

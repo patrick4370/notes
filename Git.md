@@ -1,4 +1,7 @@
-# GIT & Github
+---
+title: GIT & Github
+lang: en
+---
 
 *What is Git?*
 

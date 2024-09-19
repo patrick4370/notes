@@ -1,4 +1,7 @@
-# Sed Basics
+---
+title: Sed Basics
+lang: en
+---
 
 ## Remove until end of line
 

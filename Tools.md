@@ -1,4 +1,7 @@
-# Repair Tools
+---
+title: Repair Tools
+lang: en
+---
 
 ## USB Power Tester
 

@@ -1,4 +1,7 @@
-# Networking
+---
+title: Networking
+lang: en
+---
 
 ## Networking using systemd-networkd
 

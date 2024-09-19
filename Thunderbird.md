@@ -1,6 +1,12 @@
+---
+title: Thunderbird
+date: May 21 2024
+lang: en
+---
+
 # Thunderbird
 
-![logo](https://logonoid.com/images/thunderbird-logo.png "Logo" =100x100)
+<img src="./images/thunderbird.png" alt="image" width="300" height="auto"> 
 
 ## Remove Thunderbird's (empty) Personal Address Book
 
@@ -12,6 +18,8 @@ In Address Book, File/New/CardDAV Address Book... Enter your User Name (usually 
 
 `https://www.googleapis.com/carddav/v1/principals/username@gmail.com/lists/default/` 
 
+Change `username` to your gmail account name.
+
 ## Increase textwidth in plain text emails
 
 Open the `about:config` in settings and increase the value of 72 to a higher number under `mailnews.wraplength`
@@ -21,14 +29,16 @@ Open the `about:config` in settings and increase the value of 72 to a higher num
 
 1. End Thunderbird.
 2. Create a folder “chrome” in your thunderbird user profile folder if it does not exist.
-3. Create a file called userChrome.css if it does not exist.
-4. Enter following data into the file:
+4. Create a file called `userChrome.css` if it does not exist.
+4. Enter following data into the file: 
 
+```
 * {
 font-family: Verdana, Arial, Sans Serif !important;
 font-weight: normal !important;
 font-size: 12px !important;
 }
+```
 
 You can change font size and used font as you want.
 

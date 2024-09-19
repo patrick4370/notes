@@ -1,0 +1,105 @@
+/* Body parameters */
+body {
+    background-color: #24292e;
+    color: #ffffff;
+}
+
+/* paragraph tag. Keep maximum width of text to 50% */
+p {
+    max-width: 50%;
+}
+
+/* Keyboard key shapes in the kbd tag */
+kbd {
+    margin: 0px 0.1em;
+    padding: 0.1em 0.6em;
+    border-radius: 3px;
+    border: 1px solid rgb(204, 204, 204);
+    color: #000000;
+    line-height: 1.4;
+    font-family: Arial,Helvetica,sans-serif;
+    font-size: 10px;
+    display: inline-block;
+    box-shadow: 0px 1px 0px rgba(0,0,0,0.2), inset 0px 0px 0px 2px #ffffff;
+    background-color: rgb(247, 247, 247);
+    -moz-box-shadow: 0 1px 0px rgba(0, 0, 0, 0.2), 0 0 0 2px #ffffff inset;
+    -webkit-box-shadow: 0 1px 0px rgba(0, 0, 0, 0.2), 0 0 0 2px #ffffff inset;
+    -moz-border-radius: 3px;
+    -webkit-border-radius: 3px;
+    text-shadow: 0 1px 0 #fff;
+}
+
+/* Anchor link colours */
+a:link {
+    color: #79b8ff; 
+}
+
+a:visited {
+    color: #b392f0;
+}
+
+a:hover {
+    color: #f97583;
+}
+
+/* Table css */
+table {
+   border-collapse: collapse;
+   border-color: #1b1f23;
+   width: 50%;
+}
+
+/* Header and data fields */
+th, td {
+   border: 1px solid #808080;
+   width: 20%;
+   padding: 5px;
+   color: #d1d5da;
+}
+
+/* Colour alternate rows a different colour */
+tbody tr:nth-child(odd) {
+    background-color: #444d56;
+    color: #fff;
+}
+
+/* First row a different colour. Header row. */
+tr:first-child
+{
+   background-color: #2f363d;
+   color: #959da5;
+   text-align: left;
+}
+
+/* Heading tag colours */
+H1,H2,H3,H4,H5,H6 {
+   color: #1793d1;
+}
+
+blockquote {
+	margin: 20px 0px;
+	padding: 10px 10px 10px 10px;
+	border-left: 5px solid #44B1FD;
+	background-color: #2f363d;
+    color: #ffffff;
+    width: 40%;
+    border-radius: 15px;
+    -webkit-box-shadow: 0 15px 10px #000;
+    -moz-box-shadow: 0 15px 10px #000;
+    box-shadow: 0 10px 15px #000;
+}
+
+blockquote p {
+  display: block;
+}
+
+code {
+ font-family: Consolas,"courier new";
+  color: black;
+  background-color: #f1f1f1;
+  padding: 5px;
+  display: block;
+  font-size: 105%;
+}
+
+

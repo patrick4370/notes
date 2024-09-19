@@ -1,4 +1,9 @@
-# Arch Linux
+---
+title: Arch Linux
+lang: en
+---
+
+<img src="./images/archlogo.png" alt="image" width="200" height="auto">
 
 [Arch Installion Process](Arch_Installion_Process.md)  
 [Bluetooth](Bluetooth.md)  
@@ -8,8 +13,9 @@
 [Hibernation](Hibernation.md)  
 [Lightdm](Lightdm.md)  
 [Networking](Networking.md)  
+[Pacman](Pacman.md)
 [Swap File](Swap_File.md)   
-[Systemd boot](Systemd_boot.md)  
+[Systemd boot](Systemd-boot.md)  
 [Web Scraping](Web_Scraping.md)  
 [Wipe USB Drive](Wipe_USB_Drive.md)  
 [Xcursors](Xcursors.md)  

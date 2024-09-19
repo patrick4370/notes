@@ -1,3 +1,7 @@
+---
+title: Web Scra[ing
+lang: en
+---
 
 *Create Variable for Arch Download URL*
 

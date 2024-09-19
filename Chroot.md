@@ -1,4 +1,7 @@
-# Chroot
+---
+title: Chroot
+lang: en
+---
 
 ## Chrooting into Arch Linux
 

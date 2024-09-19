@@ -1,4 +1,7 @@
-# Raspberry Pi
+---
+title: Raspberry Pi
+lang: en
+---
 
 ## Installing The OS 
 
@@ -57,4 +60,5 @@ sudo nmcli con mod <connection name> ipv4.dhcp-send-hostname yes
 sudo nmcli con mod <connection name> ipv6.dhcp-send-hostname yes
 sudo nmcli con reload
 ```
+
 [Index](index.md)

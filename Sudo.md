@@ -1,4 +1,7 @@
-# Sudo
+---
+title: Sudo
+lang: en
+---
 
 ## Change Sudo Password Timeout
 

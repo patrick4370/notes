@@ -1,44 +1,50 @@
-![RuralIT](./images/ruralit.png)
+---
+title: My Computer Notes
+lang: en
+---
 
-# My Computer Notes
-
- Welcome to my personal notes, where I capture thoughts and insights that often
- slip through the cracks of memory. As a dedicated computer enthusiast, I find
- joy in constant exploration and learning. These scribbles evolve organically,
- growing with my journey. If they happen to benefit you, that's wonderful. If
- not, no worries — onward we tinker and learn.
+<p align="center">
+  <img src="images/ruralit.png" />
+</p>
  
- To read this properly, go to https://github.com/patrick4370/notes/blob/main/index.md
-
-[Arch Fixes](Arch_Fixes.md)    
-[Arch Linux](Arch_Linux.md)    
-[Audio](Audio.md)  
-[Awk](Awk.md)    
-[Bash Shell](Bash_Shell.md)    
-[Bitwarden](Bitwarden.md)    
-[Dotfiles](Dotfiles.md)    
-[File Managers](File_Managers.md)    
-[Firefox](Firefox.md)    
-[Firewall](Firewall.md)    
-[Fonts](Fonts.md)    
-[GTK](GTK.md)  
-[Git](Git.md)    
-[IP Cameras](IP_Cameras.md)    
-[LaTeX](LaTeX.md)    
-[Network](Network.md)    
-[Raspberry Pi](Raspberry_Pi.md)    
-[Regex](Regex.md)    
-[Sed](Sed.md)    
-[Shell Commands](Shell_Commands.md)    
-[SmartTV](SmartTV.md)    
-[Sudo](Sudo.md)    
-[Telstra](Telstra.md)    
-[Thunderbird](Thunderbird.md)    
-[Tmux](Tmux.md)    
-[Tools](Tools.md)  
-[Vim Editor](Vim_Editor.md)    
-[VimWiki](VimWiki.md)
-[Windows](Windows.md)    
-[ZSH](ZSH.md)    
+- [About](About.md)
+ 
+- [DVD](DVD.md)
+- [Arch Fixes](Arch_Fixes.md)
+- [Arch Linux](Arch_Linux.md)
+- [Audio](Audio.md)
+- [Awk](Awk.md)
+- [Bash Shell](Bash_Shell.md)
+- [Bitwarden](Bitwarden.md)
+- [Boot Menus](Boot.md)
+- [Dotfiles](Dotfiles.md)
+- [Drives](Drives.md)
+- [Email](Email.md)
+- [File Managers](File_Managers.md)
+- [Firefox](Firefox.md)
+- [Firewall](Firewall.md)
+- [Fonts](Fonts.md)
+- [GnuPG](GnuPG.md)
+- [GTK](GTK.md)
+- [Git](Git.md)
+- [IP Cameras](IP_Cameras.md)
+- [LaTeX](LaTeX.md)
+- [Network](Network.md)
+- [PDF Viewers](PDF_Viewers.md)
+- [Raspberry Pi](Raspberry_Pi.md)
+- [Regex](Regex.md)
+- [Sed](Sed.md)
+- [Shell Commands](Shell_Commands.md)
+- [SmartTV](SmartTV.md)
+- [SSH](SSH.md)
+- [Sudo](Sudo.md)
+- [Telstra](Telstra.md)
+- [Thunderbird](Thunderbird.md)
+- [Tmux](Tmux.md)
+- [Tools](Tools.md)
+- [Vim Editor](Vim_Editor.md)
+- [VimWiki](VimWiki.md)
+- [Windows](Windows.md)
+- [ZSH](ZSH.md)
 
 [Miscellaneous Stuff](Miscellaneous_Stuff.md)

@@ -1,4 +1,7 @@
-# Windows 
+---
+title: Windows
+lang: en
+---
 
 This will be filled with Windows fixes
 

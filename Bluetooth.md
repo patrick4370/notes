@@ -1,4 +1,7 @@
-# Bluetooth
+---
+title: Bluetooth
+lang: en
+---
 
 ## Change Bluetooth Agent Name 
 

@@ -1,4 +1,7 @@
-# Network
+---
+title: Network
+lang: en
+---
 
 ## AutoFS 
 
@@ -75,4 +78,36 @@ Create a *wpa_supplicant* file for the particular interface. E.g., my wifi card 
   11     psk=Add your PSK here
   12 }
 ```
+
+## Rclone Refresh Mount
+
+If you log out of any Rclone mount account and want to log back in do the
+following
+
+`rclone config`
+
+Press *e* to edit a remote.
+
+Select the remote you want to reauthenticate with. 
+Select no everytime it wants you to edit an existing value. When you are
+given these three options:
+
+---
+y) Yes this is OK
+e) Edit this remote
+d) Delete this remote
+
+Select y. It will ask you if you want to refresh the access token.
+
+y) Yes this is OK
+e) Edit this remote
+d) Delete this remote
+y/e/d> y
+Remote config
+
+Already have a token - refresh?
+y) Yes
+n) No
+y/n> 
+
 [Index](index.md)

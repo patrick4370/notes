@@ -1,12 +1,16 @@
-# Tmux
+---
+title: Tmux
+lang: en
+---
+
+![Tmux](./images/tmux-logo-medium.png)
 
 ## Useful Links
 
-[Tmux Templating](https://thoughtbot.com/blog/templating-tmux-with-tmuxinator)
-[Tmux Cheat Sheet & Quick Reference](https://tmuxcoeatsheet.com/)
+[Tmux Templating](https://thoughtbot.com/blog/templating-tmux-with-tmuxinator)  
+[Tmux Cheat Sheet & Quick Reference](https://tmuxcoeatsheet.com/)  
 
 ## Tmux Configuration 
-
 
 ```
 #   _
